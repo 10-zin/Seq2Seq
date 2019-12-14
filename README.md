@@ -1,2 +1,3 @@
 # Seq2Seq
-A collection of various types of seq2seq models .
+[Under-construction]
+A collection of various types of seq2seq models.
