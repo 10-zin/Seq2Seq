@@ -1,0 +1,5 @@
+Link for English to French translation dataset
+Same as the one used by pytorch docs.
+save it as eng-fra.txt in this directory directly.
+
+https://download.pytorch.org/tutorial/data.zip
