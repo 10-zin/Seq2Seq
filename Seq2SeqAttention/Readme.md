@@ -15,6 +15,7 @@ Positional Arguments
 Optional Arguments
 
 | Argument   | Description                        |  Default |
+|------------|------------------------------------|----------|
 | enc_hid    |Enter the encoder's hidden dimension|512       |
 | dec_hid    |Enter the decoder's hidden dimension|512       |
 | emb_dim    |Enter the embedding dimension       |300       |
